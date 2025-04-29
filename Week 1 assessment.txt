@@ -1,0 +1,21 @@
+Week 1 assessment
+
+
+Q1. what is ML
+Machine Learning is a way to let computers learn patterns from data so they can make decisions or predictions without needing detailed instructions for every task.
+
+Q2. what is supervised ML algo
+In supervised learning, the computer is trained using data that already includes the correct answers. It learns by comparing its guesses to the actual answers and adjusts until it gets good at predicting.
+
+Q3. what is regression ad classification
+Regression is when the goal is to predict a numerical value. The output is a number, and the algorithm tries to get as close as possible to the correct amount.
+Classification is when the goal is to choose a category or label. The output is not a number, but a class, and the algorithm decides which group something belongs to.
+
+
+
+
+
+
+
+
+
